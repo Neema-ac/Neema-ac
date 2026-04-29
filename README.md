@@ -1,67 +1,67 @@
 # Hey, I'm Neema
 
-CS student building things that detect fraud, understand feelings, and untangle Nairobi traffic.
-
----
-
-![Neema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neema-ac&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neema-ac&layout=compact&hide_border=true&theme=default)
+Data science student building things that detect fraud, understand feelings, and untangle Nairobi traffic.
 
 ---
 
 ## Featured Projects
 
 ### Fraud Detection
-Classification model that identifies fraudulent transactions in imbalanced datasets.
-Tackled class imbalance with SMOTE and benchmarked Logistic Regression, Random Forest, and XGBoost against each other.
-
-`Python` · `scikit-learn` · `XGBoost` · `SMOTE` · `Pandas`
+ML pipeline to catch fraudulent transactions before they slip through.
+`Python` · `scikit-learn` · `Machine Learning`
 [View repo](https://github.com/Neema-ac/fdd)
 
----
-
 ### Sentiment Analysis — Movies
-NLP model that reads movie reviews and decodes how audiences really feel.
-Preprocessed raw text, extracted TF-IDF features, and trained a classifier to distinguish positive from negative sentiment.
-
-`Python` · `NLTK` · `TF-IDF` · `scikit-learn` · `NLP`
+NLP model that reads movie reviews and decodes how the crowd really feels.
+`Python` · `NLTK` · `NLP`
 [View repo](https://github.com/Neema-ac/sentiment-analysis-movies)
 
----
-
-### Nairobi Urban Traffic Prediction
-Traffic forecasting system built specifically for Nairobi's road network.
-Uses historical traffic patterns and temporal features to predict congestion across key urban corridors.
-
-`Python` · `Machine Learning` · `Geospatial Data` · `Pandas`
-[View repo](https://github.com/Neema-ac)
+### Nairobi Traffic Prediction
+Urban traffic forecasting system built for Nairobi's road network.
+`Python` · `ML` · `Data Analysis`
+[View repo](https://github.com/Neema-ac/Natural-Language-Processing-)
 
 ---
 
 ## Tools & Skills
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logoColor=white&logo=python)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logoColor=white&logo=r)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white&logo=mysql)
+
+**Libraries & Frameworks**
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logoColor=white&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logoColor=white&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logoColor=white&logo=keras)
 ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logoColor=white&logo=pandas)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logoColor=white&logo=jupyter)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logoColor=white&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logoColor=white&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logoColor=white)
+
+**Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logoColor=white&logo=jupyter)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logoColor=black&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logoColor=white&logo=tableau)
 
 ---
 
-## Currently exploring
+## A bit more
 
-- Deep learning with TensorFlow
-- Building REST APIs with FastAPI
-- Geospatial data analysis for urban systems
+- Open to collaborations
+- Currently learning and building
+- Based in Nairobi
 
 ---
 
 ## Let's connect
 
-- LinkedIn: [add your link here]
-- Email: [add your email here]
+- [LinkedIn](https://www.linkedin.com/in/neemamuthoni/)
+- [neemaangel25@gmail.com](mailto:neemaangel25@gmail.com)
 
 ---
 
