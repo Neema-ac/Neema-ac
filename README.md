@@ -1,25 +1,58 @@
+<div align="center">
+
 # Hey, I'm Neema
 
 Data science student building things that detect fraud, understand feelings, and untangle Nairobi traffic.
+
+</div>
 
 ---
 
 ## Featured Projects
 
-### Fraud Detection
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Fraud Detection**
+
 ML pipeline to catch fraudulent transactions before they slip through.
-`Python` · `scikit-learn` · `Machine Learning`
-[View repo](https://github.com/Neema-ac/fdd)
 
-### Sentiment Analysis — Movies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logoColor=white&logo=python)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logoColor=white&logo=scikit-learn)
+![ML](https://img.shields.io/badge/Machine%20Learning-0f6e56?style=flat&logoColor=white)
+
+[View repo →](https://github.com/Neema-ac/fdd)
+
+</td>
+<td width="33%" valign="top">
+
+**Sentiment Analysis — Movies**
+
 NLP model that reads movie reviews and decodes how the crowd really feels.
-`Python` · `NLTK` · `NLP`
-[View repo](https://github.com/Neema-ac/sentiment-analysis-movies)
 
-### Nairobi Traffic Prediction
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logoColor=white&logo=python)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-1D9E75?style=flat&logoColor=white)
+
+[View repo →](https://github.com/Neema-ac/sentiment-analysis-movies)
+
+</td>
+<td width="33%" valign="top">
+
+**Nairobi Traffic Prediction**
+
 Urban traffic forecasting system built for Nairobi's road network.
-`Python` · `ML` · `Data Analysis`
-[View repo](https://github.com/Neema-ac/Natural-Language-Processing-)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logoColor=white&logo=python)
+![ML](https://img.shields.io/badge/Machine%20Learning-0f6e56?style=flat&logoColor=white)
+![Data](https://img.shields.io/badge/Data%20Analysis-BA7517?style=flat&logoColor=white)
+
+[View repo →](https://github.com/Neema-ac/Natural-Language-Processing-)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,17 +85,21 @@ Urban traffic forecasting system built for Nairobi's road network.
 
 ## A bit more
 
-- Open to collaborations
-- Currently learning and building
-- Based in Nairobi
+<table>
+<tr>
+<td>📍 &nbsp;Based in Nairobi</td>
+<td>🤝 &nbsp;Open to collaborations</td>
+</tr>
+<tr>
+<td>💼 &nbsp;<a href="https://www.linkedin.com/in/neemamuthoni/">LinkedIn</a></td>
+<td>📧 &nbsp;<a href="mailto:neemaangel25@gmail.com">neemaangel25@gmail.com</a></td>
+</tr>
+</table>
 
 ---
 
-## Let's connect
-
-- [LinkedIn](https://www.linkedin.com/in/neemamuthoni/)
-- [neemaangel25@gmail.com](mailto:neemaangel25@gmail.com)
-
----
+<div align="center">
 
 *Always curious. Always building. Always caffeinated.*
+
+</div>
